@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MosueLook : MonoBehaviour
+public class MouseLook : MonoBehaviour
 {
     // Start is called before the first frame update
     public float mouseSensitivity = 100f;
